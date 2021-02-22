@@ -8,6 +8,7 @@ Python samples for [Google Cloud Platform products][cloud].
 
 1. Install [`pip` and `virtualenv`][cloud_python_setup] if you do not already have them.
 
+
 1. Clone this repository:
 
     ```
